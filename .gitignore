@@ -1,3 +1,6 @@
 __pycache__
 .env
 .learn
+/workspaces/machine-learning-python-template/data
+/workspaces/machine-learning-python-template/models
+/workspaces/machine-learning-python-template/src/arboles
