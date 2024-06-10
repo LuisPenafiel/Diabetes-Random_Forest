@@ -21,7 +21,7 @@ Feature Selection: Identifying and choosing the most relevant features to improv
 
 #### Step 5 Decision Tree model
 
-we apply the Random Forest to the clean Data
+we apply the Decesion Tree with the previous cleaned Data
 
 #### Step 6: Model optimization
 
@@ -30,3 +30,15 @@ The Model is imporved using Gridsearch letting the algorith to choose the better
 #### Step 7: Save Model
 
 Using Pickle we save the Model
+
+# Predicting diabetes
+## Instruction
+Using the last Desicion Three cleraned Data we will implement a Random Forest and Boosting wit the right Hyperparametrs.
+
+#### Step 1: Import Data from the Decision Tree dataset 
+#### Step2: Model optimization
+Using GridSearch and different Hyperparameters we are able to improve the Model
+#### Step 3: .png the Random Forest
+we save a .png image
+#### Step 4: Save Model
+Unsing pickle we save the best Model
