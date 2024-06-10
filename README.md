@@ -1,4 +1,4 @@
-# Predicting diabetes
+# Predicting diabetes/ Decision Tree
 ## Instructions
 
 We should load the processed dataset from the previous project (split into training and test samples and analyzed with EDA).
@@ -31,8 +31,8 @@ The Model is imporved using Gridsearch letting the algorith to choose the better
 
 Using Pickle we save the Model
 
-# Predicting diabetes
-## Instruction
+# Predicting diabetes/ Random_Forest
+## Instructions
 Using the last Desicion Three cleraned Data we will implement a Random Forest and Boosting wit the right Hyperparametrs.
 
 #### Step 1: Import Data from the Decision Tree dataset 
